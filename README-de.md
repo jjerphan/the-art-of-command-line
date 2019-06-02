@@ -386,7 +386,9 @@ Ein paar Beispiele, wie man Befehle zusammen benutzen kann:
 
 - `cal`: Netter Kalender
 
-- `env`: Führe einen Befehl aus (nützlich für Skripte)
+- `env`: Ausführen eines Programms in einer modifizierten Umgebung
+
+- `eval`: Führe eine Zeichenkette als Befehl in einer Subshell aus (nützlich in Skripten).
 
 - `printenv`: Gebe Umgebungsvariablen aus (nützlich zum Debuggen und für Skripte)
 
