@@ -347,7 +347,9 @@ Algunos ejemplos de comandos reunidos:
 
 - `cal`: lindo calendario
 
-- `env`: ejecuta un comando (útil en scripts)
+- `env`: ejecutar un programa en un entorno modificado
+
+- `eval`: ejecuta una cadena como comando en un subshell (útil en scripts)
 
 - `printenv`: imprime las variables del entorno (útil en depuración y scripts)
 
