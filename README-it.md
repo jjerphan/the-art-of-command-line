@@ -355,7 +355,9 @@ Qualche esempio di combinazione di più comandi comandi:
 
 - `cal`: un calendario.
 
-- `env`: esegue un comando (utile negli script).
+- `env`: esegue un programma in un ambiente modificato
+
+- `eval`: esegue una stringa come comando in un subshell (utile negli script)
 
 - `printenv`: stampa le variabili di ambiente (utile per il debug e negli script).
 
